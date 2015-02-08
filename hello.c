@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hello, world with feature_x!\n");
+	printf("Hello, world without feature_x!\n");
 
 }
